@@ -1,2 +1,3 @@
-require 'cocoapods-rome/post_install'
-require 'cocoapods-rome/pre_install'
+require 'cocoapods-jiffy/post_install'
+require 'cocoapods-jiffy/pre_install'
+require 'cocoapods-jiffy'
