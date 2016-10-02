@@ -24,7 +24,7 @@ Write a simple Podfile like this:
 ```ruby
 platform :ios, '9.0' # this will be used as platform for caching
 
-plugin 'cocoapods-jiify'
+plugin 'cocoapods-jiffy'
 
 target 'CoolApp' do
   # just specify targets should be cached by using `cachedpod` instead of `pod`
